@@ -1,0 +1,10 @@
+*.docx
+*.odt
+*.pdf
+*.html
+*.pkl
+data/
+models/
+Finale_Projektabgaben/
+.ipynb_checkpoints/
+__pycache__/
