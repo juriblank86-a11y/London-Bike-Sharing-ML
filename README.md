@@ -15,7 +15,7 @@ Das Projekt umfasst den gesamten Data Science Lifecycle: Von der explorativen Da
 ## Repository Struktur
 Das Repository ist wie folgt organisiert:
 
-- `notebooks/` - Beinhaltet alle Jupyter Notebooks für EDA, Feature Engineering und das Modell-Training (`XGBoost.ipynb`, `Gradient_Boost.ipynb` etc.).
+- `notebooks/` - Beinhaltet alle Jupyter Notebooks für EDA, Feature Engineering und das Modell-Training.
 - `data/` - (Lokal ignoriert) Enthält die Trainingsdaten (`london_merged.csv`) und Post-Processing-Exports (Residuen-Analyse).
 - `models/` - (Lokal ignoriert) Serialisierte, fertige und getunte ML-Modelle für den direkten Einsatz (`.pkl`).
 - `reports/` - Dokumentationen, Projektberichte und HTML-Exporte der Notebooks.
